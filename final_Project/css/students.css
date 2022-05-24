@@ -1,0 +1,42 @@
+.g{
+  color:#21246b;
+}
+.o{
+  color:#21246b;
+}
+.o1{
+  color:#21246b;
+}
+.l{
+  color:#21246b;
+}
+.e{
+  color:#21246b;
+}
+
+
+.card-1 {
+  padding: 10px 10px 10px 10px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+hr {
+     color: #f00;
+     background: #e0e0e0; 
+     width: 100%; 
+     height: 10%;
+     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.bold{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.table-responsive>.table>tbody>tr>td{
+    horizontal-align: middle;
+}
+.card {
+  margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
